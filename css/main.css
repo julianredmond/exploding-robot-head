@@ -53,13 +53,11 @@ body {
 }
 
 .robot-head-right:hover {
-  position: relative;
-  right: 3px;
+  position: absolute;
 }
 
 .robot-head-left:hover {
-  position: relative;
-  right: 3px;
+  position: absolute;
 }
 
 .robot-brain:hover {
